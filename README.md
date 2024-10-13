@@ -79,5 +79,6 @@ If you found this project useful, please give it a ⭐ on [GitHub](https://githu
 ---
 
 ### 🌐 Social Links
-- [LinkedIn](https://www.linkedin.com/in/anurag100/)
-- [X (Twitter)](https://x.com/anurag_singh100)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anurag100/) 
+[![X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-1DA1F2?style=flat-square&logo=twitter)](https://x.com/anurag_singh100)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/1il0_0_0)
